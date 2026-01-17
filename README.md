@@ -1,5 +1,22 @@
 #BigVirtue1 #VirtueLock
 
+# 📖 Technical Documentation: Bigvirtue1 Privacy Guardian God
+**The Next Generation of Quantum-Resistant Encryption Standard**
+
+---
+
+## 📑 Table of Contents (목차)
+1. [Introduction to 8-Layer Defense](#1-introduction)
+2. [Quantum-Resistant Algorithm Logic](#2-algorithm)
+3. [Anti-Visual Hacking (Cursor Stealth)](#3-stealth)
+4. [Hardware ID (HWID) Binding Security](#4-hwid)
+
+---
+
+## 1. Introduction
+Bigvirtue1은 기존 VeraCrypt의 한계를 극복하기 위해 설계되었습니다. 
+단순한 데이터 암호화를 넘어, 입력 단계부터 복호화 환경까지 모든 과정을 보호합니다.
+
 BigVirtue1 is a stealth-oriented encryption system focused on protecting password entry and reducing operational exposure, complementing traditional disk encryption tools such as VeraCrypt. BigVirtue1 addresses a different threat model by strengthening security *before and during* password entry, where real-world compromises often occur. BigVirtue1 is designed for users who consider password entry, operational visibility, and key exposure to be critical attack 
 
 # 🛡️ Bigvirtue1 Privacy Guardian God: Technical Specifications
