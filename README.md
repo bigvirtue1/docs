@@ -45,7 +45,7 @@ Unlike standard encryption software, Bigvirtue1 is engineered to withstand the t
 ### 1. Quantum-Resistant Encryption (양자 내성 보안)
 Traditional encryption algorithms face potential risks from quantum computing. Bigvirtue1 utilizes advanced quantum-resistant logic to ensure your data remains secure even in the next era of computing.
 
-### 2. 8-Layer Defense Code (7중 방어 코드)
+### 2. 8-Layer Defense Code (8중 방어 코드)
 We do not allow even a single character of plaintext. Our proprietary 8-layer input system protects your information at every stage—from the moment you type to the final encrypted storage.
 * **Zero-Plaintext Policy:** No unencrypted data ever touches the disk or memory.
 * **Note Protection:** Even your metadata and notes are treated with the same high-level 8-layer defense as your main passwords.
