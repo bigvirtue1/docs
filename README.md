@@ -6,10 +6,25 @@
 ---
 
 ## 📑 Table of Contents (목차)
-1. [Introduction to 8-Layer Defense](#1-introduction)
-2. [Quantum-Resistant Algorithm Logic](#2-algorithm)
-3. [Anti-Visual Hacking (Cursor Stealth)](#3-stealth)
-4. [Hardware ID (HWID) Binding Security](#4-hwid)
+1. [Introduction to 8-Layer Defense](#1-introduction-to-8-layer-defense)
+2. [Quantum-Resistant Algorithm Logic](#2-quantum-resistant-algorithm-logic)
+3. [Anti-Visual Hacking (Cursor Stealth)](#3-anti-visual-hacking-cursor-stealth)
+4. [Hardware ID (HWID) Binding Security](#4-hardware-id-hwid-binding-security)
+
+---
+
+## 1. Introduction to 8-Layer Defense
+Bigvirtue1은 기존 VeraCrypt의 한계를 극복하기 위해 설계되었습니다. 
+단순한 데이터 암호화를 넘어, 입력 단계부터 복호화 환경까지 모든 과정을 보호합니다.
+
+## 2. Quantum-Resistant Algorithm Logic
+양자 컴퓨터의 위협으로부터 데이터를 안전하게 보호하기 위한 차세대 암호화 로직을 상세히 설명합니다.
+
+## 3. Anti-Visual Hacking (Cursor Stealth)
+마우스 커서 은닉 기술을 통해 시각적 해킹 및 화면 녹화로부터의 노출을 원천 차단하는 핵심 기술입니다.
+
+## 4. Hardware ID (HWID) Binding Security
+사용자의 하드웨어 고유 ID와 암호화 키를 결합하여, 승인되지 않은 다른 기기에서의 복호화를 불가능하게 만듭니다.
 
 ---
 
