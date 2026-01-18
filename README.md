@@ -5,6 +5,14 @@
 
 ---
 
+# Bigvirtue1 Technical Documentation
+
+⚠️ This repository contains technical documentation only.
+
+For the main project, source code, and executable releases, visit:
+👉 https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god
+
+
 ## 📑 Table of Contents (목차)
 1. [Introduction to 8-Layer Defense](#1-introduction-to-8-layer-defense)
 2. [Quantum-Resistant Algorithm Logic](#2-quantum-resistant-algorithm-logic)
